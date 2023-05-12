@@ -1,10 +1,7 @@
 {
 	"folders": [
 		{
-			"path": ".."
-		},
-		{
-			"path": "../../Python For DataScience"
+			"path": "../../Python For DataScience/Python-For-DataScience"
 		}
 	]
 }
