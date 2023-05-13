@@ -9,3 +9,6 @@ This repo will help community Data Engineers to work on use case asked in interv
 4. Check Query carefully and correct any possible mistakes.
 5. Suggest Any possible improvements to the Query and/or the approach to answer the Question
 If you are appearing for an interview than continuosly engage the interviewer while creating the logic it will have positive effect on the overall interview.
+
+
+I will keep updating this repo 
